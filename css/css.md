@@ -67,3 +67,12 @@ overflow: hidden （方方反对）
 ## 1.11 说说盒模型。举例：
 - content-box: width == 内容区宽度
 - border-box: width == 内容区宽度 + padding 宽度 + border 宽度
+
+## 13、css伪类
+```
+a:link {color: #FF0000}           /* 未访问的链接 */
+a:visited {color: #00FF00}      /* 已访问的链接 */
+a:hover {color: #FF00FF}        /* 鼠标移动到链接上 */
+a:active {color: #0000FF}       /* 选定的链接 */
+```
+
